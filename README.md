@@ -1,13 +1,11 @@
 # Akinator
 ### Akinator-game with possibility of saving game. 
 
-## Usage
+## Installing
 To start clone repository and do:  
-```> make lin```
-In case if you have Linux and you should download graphviz before.   
-```> make win```
-In case if you have Windows.   
-Now you are ready to start with akinator
+* ```> make lin```In case if you have Linux and you should download graphviz before.   
+* ```> make win``` In case if you have Windows.   
+Now you are ready to start with Akinator.
 
 ## Features
 With this game you can:
@@ -17,6 +15,7 @@ With this game you can:
 * Check common attributes between two things in database
 * Just play game with your friends and have fun   
 
+## Usage
 Gameplay example:
 ```*********MENU*********
 What do you want to do?
